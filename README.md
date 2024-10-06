@@ -14,7 +14,11 @@ Tasks:
 1) Scrape data from the web
 2) Analyse data: topic modelling, sentiment analysis or wordclouds to provide some insight into the content of the reviews
 3) Present insights: create visualisations and metrics <br />
+
 <br />
+<br />
+<br />
+
 **Model Evaluation Summary of Customer Booking Behavior**
 
 Customers are more empowered than ever because they have access to a wealth of information at their fingertips. This is one of the reasons the buying cycle is very different to what it used to be. 
